@@ -398,3 +398,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+Books/Books/appsettings.json
+Books/Books/appsettings.Development.json
+Books/Books/bin/
+Books/Books/obj/
